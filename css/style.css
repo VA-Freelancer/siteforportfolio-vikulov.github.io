@@ -294,7 +294,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px 20px;
+    margin: 20px auto;
 }
 /* responsive */
 @media (max-width: 1100px){
